@@ -49,7 +49,7 @@ nav ul li a:hover {
         border-color: #ff8ea1;
 }
 body{
-        background-image: url(resources /background.jpg);
+        background-image: url(../resources/background.jpg);
         background-attachment: fixed;
         background-size: 100% 100%;
         font-family: 'Trebuchet MS', serif;
